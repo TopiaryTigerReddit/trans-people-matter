@@ -1,6 +1,0 @@
-pipeline:
-  build:
-    image: ruby:2.4
-    commands:
-      - bundle install
-      - bundle exec jekyll build
