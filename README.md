@@ -3,7 +3,7 @@ A site dedicated to connecting people with information on how they can help the 
 
 # Want to contribute?
 I welcome pull requests! I'm not much of a front-end developer, so if anyone wants to help make the site look a little nicer, that would be fantastic. Feel free to file an issue as well. This will help give an idea
-of where to take development from here.
+of where to take development from here
 
 # Local development
 1) Clone the repo
