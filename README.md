@@ -2,7 +2,7 @@
 A site dedicated to connecting people with information on how they can help the trans community under the Trump administration.
 
 # Want to contribute?
-I welcome pull requests! I'm not much of a front-end developer, so if anyone wants to help make the site look a little nicer, that would be fantastic. Feel free to file an issue as well. This will help give an idea
+First, please read the [code of conduct](CODE_OF_CONDUCT.md). I welcome pull requests! I'm not much of a front-end developer, so if anyone wants to help make the site look a little nicer, that would be fantastic. Feel free to file an issue as well. This will help give an idea
 of where to take development from here.
 
 # Local development
